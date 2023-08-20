@@ -1,4 +1,7 @@
 # react-typescript-technical-test
+
+You can access the deployed project at https://react-typescript-technical-test.vercel.app/
+
 ## Technical test with TypeScript and React
 
 The goal of this technical test is to create an app similar to the one provided at this link: https://midu-react-11.surge.sh/. To achieve this, you must use the API provided by https://randomuser.me/.
